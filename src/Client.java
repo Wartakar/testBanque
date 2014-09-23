@@ -1,5 +1,6 @@
 // message d'ibrahima
 // message de Jers
+//message de jers 3
 public class Client {
 
 	private int numClient;
