@@ -1,6 +1,6 @@
 // message d'ibrahima
-// 2eme message
-//3eme
+// message de Jers
+///bbbb
 public class Client {
 
 	private int numClient;
